@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753856236935",
+    "firebase_url": "https://cvdecklist.firebaseio.com",
+    "project_id": "cvdecklist",
+    "storage_bucket": "cvdecklist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753856236935:android:55530226f4d57927b99722",
+        "android_client_info": {
+          "package_name": "com.ducdt.cvdecklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753856236935-5m9vv03nchmdalgpur42kicoe0ndgvnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMAFF3D5AyxiXTB4nxvamFubShzhbNa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753856236935-5m9vv03nchmdalgpur42kicoe0ndgvnl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753856236935-oim2c77dbqb526ekc7dlcf3nbl3gloef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ducdt.cvdecklist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

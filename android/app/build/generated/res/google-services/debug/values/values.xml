@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">753856236935-5m9vv03nchmdalgpur42kicoe0ndgvnl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cvdecklist.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">753856236935</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJMAFF3D5AyxiXTB4nxvamFubShzhbNa8</string>
+    <string name="google_app_id" translatable="false">1:753856236935:android:55530226f4d57927b99722</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJMAFF3D5AyxiXTB4nxvamFubShzhbNa8</string>
+    <string name="google_storage_bucket" translatable="false">cvdecklist.appspot.com</string>
+    <string name="project_id" translatable="false">cvdecklist</string>
+</resources>

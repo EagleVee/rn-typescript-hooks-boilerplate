@@ -1,0 +1,4 @@
+# Referenced at /Users/nnavu/WebstormProjects/cvdecklist/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:54
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/nnavu/WebstormProjects/cvdecklist/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:54
+-keep class com.ducdt.cvdecklist.MainApplication { <init>(); }

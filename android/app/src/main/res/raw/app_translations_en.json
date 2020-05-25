@@ -1,0 +1,10 @@
+{
+  "hello-world": "Hello World!",
+  "error": "Some errors happened, please try again!",
+  "tab-dictionary": "Dictionary",
+  "tab-stroke": "Stroke Order",
+  "tab-pronunciation": "Pronunciation",
+  "stroke-reset": "Reset",
+  "stroke-placeholder": "Insert some characters...",
+  "confirm": "Confirm"
+}

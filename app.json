@@ -1,0 +1,17 @@
+{
+  "name": "cvdecklist",
+  "displayName": "cvdecklist",
+  "expo": {
+    "name": "cvdecklist",
+    "slug": "cvdecklist",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

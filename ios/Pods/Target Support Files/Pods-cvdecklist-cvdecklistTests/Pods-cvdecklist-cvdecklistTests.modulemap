@@ -1,0 +1,6 @@
+module Pods_cvdecklist_cvdecklistTests {
+  umbrella header "Pods-cvdecklist-cvdecklistTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
